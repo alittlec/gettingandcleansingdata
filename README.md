@@ -56,10 +56,10 @@ https://thoughtfulbloke.wordpress.com/2015/09/09/getting-and-cleaning-the-assign
 For details
 
 ##Components
-The data files listed above
-CodeBook.md (code book)
-run_analysis.R (Single R script containing all the processing described in this readme)
-tidydataset.txt (Tidy data set with the average of each variable, for each acitivty and each subject)
+* The data files listed above
+* CodeBook.md (code book)
+* run_analysis.R (Single R script containing all the processing described in this readme)
+* tidydataset.txt (Tidy data set with the average of each variable, for each acitivty and each subject)
 
 ## Reading data
 
